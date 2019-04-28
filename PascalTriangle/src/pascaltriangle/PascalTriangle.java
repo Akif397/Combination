@@ -35,9 +35,7 @@ public class PascalTriangle {
         }
         return a;
     }
-
     
-
     public static void main(String[] args) {
         int passingValue = 6;
         PascalTriangle pascalTriangle = new PascalTriangle();
